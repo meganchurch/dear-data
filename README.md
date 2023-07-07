@@ -1,6 +1,6 @@
-# dear-data
+# dear-data-challenge
 
-[Dear-Data]([https://pages.github.com/](http://www.dear-data.com/theproject)http://www.dear-data.com/theproject)
+[Dear-Data](http://www.dear-data.com/theproject)
  is a year-long, analog data drawing project by Giorgia Lupi and Stefanie Posavec. 
 
 *** 
