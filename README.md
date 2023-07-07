@@ -1,4 +1,7 @@
 # dear-data
 
-project description
+[Dear-Data]([https://pages.github.com/](http://www.dear-data.com/theproject)http://www.dear-data.com/theproject)
+ is a year-long, analog data drawing project by Giorgia Lupi and Stefanie Posavec. 
 
+*** 
+Data Visualization Final Project 
